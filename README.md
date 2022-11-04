@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ehmtang
+👋 Hi
 
 You can find my portfolio here https://github.com/ehmtang/ehmtang.github.io/wiki
 
