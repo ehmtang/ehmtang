@@ -1,10 +1,10 @@
 👋 Hi Erwin
 
-👀 I’m interested in analytics
+👀 I’m interested in analytics, smart manufacturing and IIOT.
 
 :earth_africa: I'm usually in the kitchen 
 
-🌱 I’m currently learning Statistics and Spanish
+🌱 I’m currently learning PLC programming, Statistics & Machine Learning and Spanish
 
 📫 How to reach me: https://www.linkedin.com/in/erwinhmtang/
 
