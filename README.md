@@ -5,8 +5,7 @@
 - 💞️ We can collaborate on a problem and take twice as long.
 - 📫 You can reach me: https://www.linkedin.com/in/erwinhmtang/.
 
-You can find my portfolio here https://github.com/ehmtang/ehmtang.github.io/wiki, kaggle profile https://www.kaggle.com/erwinhmtang, or 
-follow my progress here https://www.freecodecamp.org/ehmtang.
+You can find my portfolio here https://github.com/ehmtang/ehmtang.github.io/wiki, kaggle profile https://www.kaggle.com/erwinhmtang.
 
 <!---
 ehmtang/ehmtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
