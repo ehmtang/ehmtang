@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Erwin.
-- 👀 I’m interested in analytics.
 - 🌍 I'm usually in the kitchen.
 - 🌱 I’m currently learning Programming, Statistics & Machine Learning (and Spanish).
 - 💞️ We can collaborate on a problem and take twice as long.
