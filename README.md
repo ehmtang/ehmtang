@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Erwin.
 - 🌍 I'm usually in the kitchen.
-- 🌱 I’m currently learning Programming, Statistics & Machine Learning (and Spanish).
+- 🌱 I’m currently learning Software Dev, Data Science and Engineering (and Spanish).
 
 <!---
 ehmtang/ehmtang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
