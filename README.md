@@ -1,6 +1,4 @@
 ## About me:
-Switching grease 🛠️ for code 👨‍💻
-
 > <details>
 >   <summary>What I'm using </summary>
 >     <ul>
