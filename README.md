@@ -24,7 +24,6 @@
 > <details>
 >   <summary>What I want to learn</summary>
 >     <ul>
->       <li>Unity and Game design & development</li>
 >       <li>Data Modelling</li> 
->       <li>Google Associate Cloud Engineer</li>
+>       <li>Unity and Game design & development</li>
 >     </ul> 
