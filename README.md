@@ -2,12 +2,13 @@
 Switching grease 🛠️ for code 👨‍💻
 
 > <details>
->   <summary>What I use </summary>
+>   <summary>What I'm using </summary>
 >     <ul>
 >       <li>Python, JavaScript</li>
 >       <li>HTML, CSS</li>
 >       <li>MySQL, PostgreSQL</li> 
 >       <li>GCode, Onshape, SiemensNX</li>
+>       <li>Windows Subsystem for Linux</li>
 >       <li>Google Cloud Platform</li>
 >     </ul>
 > </details>
